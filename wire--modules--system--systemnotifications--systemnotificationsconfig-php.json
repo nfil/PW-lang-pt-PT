@@ -72,13 +72,13 @@
             "text": "Formato de data utilizado para as notifica\u00e7\u00f5es. Utilizar o formato date() ou strftime(), ou \"relative\" para datas\/horas relativas, \"rel\" para dtas\/horas abreviadas."
         },
         "64a87d656e89eca4f73f4ecda74480f5": {
-            "text": "Icone da mensagem"
+            "text": "Ícone da mensagem"
         },
         "b454aae1916829fd90512b2c31a01e68": {
-            "text": "Icone de alerta"
+            "text": "Ícone de alerta"
         },
         "c59e636f1291af56f91d53c3a51ac8f8": {
-            "text": "Icone de erro"
+            "text": "Ícone de erro"
         },
         "b386baeabf452105b52ddd8a8dbebf1c": {
             "text": "Prazo do ghost"
